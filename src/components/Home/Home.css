@@ -1,0 +1,13 @@
+/* .Body {
+    margin: 5px;
+    padding:10px;
+    border: radius 2px; ;
+    width:30%;
+} */
+.body{
+    background:url("images/Bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;  
+}

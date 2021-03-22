@@ -1,0 +1,29 @@
+[{
+    "id": 1,
+    "name": "Bike",
+    "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.meridreambike.com%2Fwp-content%2Fuploads%2F2019%2F09%2Fr15.png&imgrefurl=https%3A%2F%2Fwww.meridreambike.com%2Fproduct%2Fr15%2F&tbnid=-sAQEmOhzkFGMM&vet=10CAoQxiAoAWoXChMI8OnD5tjB7wIVAAAAAB0AAAAAEAI..i&docid=IXPl6lO-pp4wuM&w=700&h=430&itg=1&q=image%20for%20bike&ved=0CAoQxiAoAWoXChMI8OnD5tjB7wIVAAAAAB0AAAAAEAI",
+    "From": "Mirpur",
+     "To"   : " Dhanmondi", 
+    " Rate": 100
+  }, {
+    "id": 2,
+    "name": "Car",
+    "image": "https://www.google.com/search?q=image+for+car&tbm=isch&ved=2ahUKEwjV_Z7_2MHvAhUUNCsKHXMTA0UQ2-cCegQIABAA&oq=image+for+car&gs_lcp=CgNpbWcQARgAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgQIIxAnOgQIABBDOgQIABAeOgYIABAIEB5QhusFWMqGBmCxlwZoAHAAeACAAcIBiAG5BZIBAzAuNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=dWVXYJXvLJTorAHzpoyoBA&bih=969&biw=1920&rlz=1C1BNSD_enBD935BD935", 
+    "From": "Uttara",
+     "To"   : " Motijheel", 
+    " Rate": 100
+  }, {
+    "id": 3,
+    "name": "Bus",
+    "image":"https://www.google.com/search?q=image+for+bus&tbm=isch&ved=2ahUKEwi1-7Gw2cHvAhWYlUsFHbg0Bo0Q2-cCegQIABAA&oq=image+for+bus&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgYIABAFEB4yBggAEAUQHjoECCMQJzoECAAQQ1DW6gNYufIDYKX5A2gAcAB4AIABvAKIAc4FkgEHMC4zLjAuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=3GVXYLWdMZirrtoPuOmY6Ag&bih=969&biw=1920&rlz=1C1BNSD_enBD935BD935",
+    "From": "Gulshan",
+     "To"   : " Motijheel", 
+    " Rate":150 
+  }, {
+    "id": 4,
+    "name": "Train",
+    "image":"https://www.google.com/search?q=image+for+train&tbm=isch&ved=2ahUKEwiympHQ2cHvAhWFDysKHUauCeYQ2-cCegQIABAA&oq=image+for+train&gs_lcp=CgNpbWcQAzICCAAyAggAMgYIABAFEB4yBggAEAgQHjoECCMQJzoECAAQQ1CahQNYr5EDYJuYA2gAcAB4AIAB7AGIAfAGkgEFMC41LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=H2ZXYPKOF4WfrAHG3KawDg&bih=969&biw=1920&rlz=1C1BNSD_enBD935BD935",
+    "From": "Gulshan",
+     "To"   : "Batidhara ", 
+    " Rate": 250
+     }]
